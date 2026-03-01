@@ -1,0 +1,3 @@
+# KiCad lock files
+*.lck
+~*.lck
