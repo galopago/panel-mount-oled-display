@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TerminalBlock_DoubleLevel")(type "KiCad")(uri "/home/libertad/Desktop/repos/panel-mount-oled-display/library/TerminalBlock_DoubleLevel.pretty")(options "")(descr ""))
+)
