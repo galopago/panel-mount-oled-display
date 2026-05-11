@@ -390,7 +390,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "panel-mount-oled-display-connector-board.kicad_pro",
+    "filename": "panel-mount-oled-display-display-board.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -425,7 +425,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "panel-mount-oled-display-display-board.dsn",
       "step": "",
       "vrml": ""
     },
