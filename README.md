@@ -48,6 +48,8 @@ Upload the Gerber ZIP of your choice to your PCB fab:
 | Display | [`display-board-single.zip`](display-board/gerber/single/panel-mount-oled-display-display-board-single.zip) | [`display-board-panel.zip`](display-board/gerber/panel/panel-mount-oled-display-display-board-panel.zip) |
 | Connector | [`connector-board-single.zip`](connector-board/gerber/single/panel-mount-oled-display-connector-board-single.zip) | [`connector-board-panel.zip`](connector-board/gerber/panel/panel-mount-oled-display-connector-board-panel.zip) |
 
+Panel Gerbers are kept within a **100 mm × 100 mm** outline. That size fits the low-cost tier offered by many PCB fabs, so panel orders tend to stay inexpensive even when you need several boards at once.
+
 ## Opening in KiCad
 
 Open each `.kicad_pro` file separately (KiCad 7 or newer). The local footprint library in [`library/`](library/) is referenced by the projects.
